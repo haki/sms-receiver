@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1036751042538",
+    "project_id": "sms-reader-c0629",
+    "storage_bucket": "sms-reader-c0629.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036751042538:android:eddfe2230bbe74a8c0a493",
+        "android_client_info": {
+          "package_name": "md.meral.smsreader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036751042538-0iei8oousg0f9a65b47jftfc9t62e9nk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1_nj_jQ_3swR7DGtEOvDpcPyXqsDA2ak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036751042538-0iei8oousg0f9a65b47jftfc9t62e9nk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
